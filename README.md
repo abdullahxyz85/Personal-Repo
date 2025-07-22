@@ -1,2 +1,3 @@
 # Personal-Repo:
  This is my personal repo!
+ Learning is part of life!
