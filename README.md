@@ -1,5 +1,7 @@
 # Personal-Repo:
- This is my personal repo!
- Learning is part of life!
- I give colllobrator Access!
- Adding information
+
+This is my personal repo!
+Learning is part of life!
+I give colllobrator Access!
+Adding information
+adding more information~
